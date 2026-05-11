@@ -9,7 +9,7 @@
 
 ## 🌐 サイトはこちら
 
-👉 **[https://あなたのユーザー名.github.io/リポジトリ名](https://あなたのユーザー名.github.io/リポジトリ名)**
+👉 **[https://kamiyama2514.github.io/test](https://kamiyama2514.github.io/test)**
 
 > ※ GitHub Pages で公開しています！
 
@@ -19,7 +19,7 @@
 
 ```
 📂 リポジトリ名/
-└── 📄 index.html   # 自己紹介ページ本体
+└── 📄 main.html   # 自己紹介ページ本体
 └── 📄 README.md    # このファイル
 ```
 
